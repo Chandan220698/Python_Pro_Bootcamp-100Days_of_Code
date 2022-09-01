@@ -17,6 +17,6 @@ And there are so many more projects waiting to be discovered by you!
 100 projects in total.
 
 ## Day 1
-we're going to learn about printing, commenting, debugging, string manipulation and variables.<br>
+we're going to learn about <b>printing, commenting, debugging, string manipulation and variables<b>.<br>
 project 1: band name generator
 
