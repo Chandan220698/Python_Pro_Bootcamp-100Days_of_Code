@@ -25,5 +25,12 @@ Type converstion:
 ` str(12345) # Now its str type`
 
 ` len(12345) # This will throw data type error `
-> 
+> Note: Type converstion must be compatible int("string") -> Error: Not compatible converstion
 
+### Code3: f-string: String formatting
+```
+val1 = 10
+val2 = "Hello"
+
+print(f"Integer value is {val1} and String value is {val2}")
+```

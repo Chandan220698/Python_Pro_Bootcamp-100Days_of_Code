@@ -1,0 +1,18 @@
+# @Author: Chandan Kumar
+
+print(8/3)      # lots of decimal places
+# fix
+print(round(8/3))
+
+print(round(8/3, 2))    # 2 decimal point of accuracy
+
+score = 10
+score += 1
+
+print("Your score is " + str(score))
+
+# f-string: String formatting
+height = 1.8
+isWinning = True
+
+print(f"Your score is {score}, height is {height + 0.4} and your winning is {isWinning}")
