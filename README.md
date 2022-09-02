@@ -16,7 +16,7 @@ And there are so many more projects waiting to be discovered by you!
 <br>
 100 projects in total.
 
-## Day 1
+## Day 1: Beginner - Working with Variables in Python to Manage Data
 we're going to learn about <b>printing, commenting, debugging, string manipulation and variables<b>.<br>
 project 1: band name generator
 
