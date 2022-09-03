@@ -23,7 +23,7 @@ else:
 
 ### Code 2: Logical Operators
 
-> AND operator : True when all condition is True
-> OR operator : True when any of condition is True
+> AND operator : True when all condition is True<br>
+> OR operator : True when any of condition is True<br>
 > Not operator : Reverse the True to False and vise-versa
 
