@@ -24,9 +24,8 @@ project 1: band name generator
 Learnings: <b>Data Types & Converstions, Numbers, Operations, and f-strings<b>.<br>
 project 2: Tip Calculator
 
-## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=Chandan220698/Python_Pro_Bootcamp-100Days_of_Code">
-</a>
-<a href="https://github.com/Chandan220698/Python_Pro_Bootcamp-100Days_of_Code?tab=followers"><img src="https://img.shields.io/github/followers/Chandan220698/Python_Pro_Bootcamp-100Days_of_Code?label=Followers&style=social" alt="GitHub Badge"></a>
+## Day 3: Beginner - Control Flow and Logical Operators
+Learnings: <b>Conditional Statements, Logical Operators, Code Blocks and Scope<b>.<br>
+project 3: Treasure Island
+
 
