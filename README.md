@@ -23,3 +23,10 @@ project 1: band name generator
 ## Day 2: Beginner - Understanding Data Types and How to Manipulate Strings
 Learnings: <b>Data Types & Converstions, Numbers, Operations, and f-strings<b>.<br>
 project 2: Tip Calculator
+
+## ❤ Views and Followers
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=Chandan220698">
+</a>
+<a href="https://github.com/Chandan220698?tab=followers"><img src="https://img.shields.io/github/followers/Chandan220698?label=Followers&style=social" alt="GitHub Badge"></a>
+
