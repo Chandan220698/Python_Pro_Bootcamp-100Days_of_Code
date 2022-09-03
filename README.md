@@ -28,5 +28,5 @@ project 2: Tip Calculator
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=Chandan220698">
 </a>
-<a href="https://github.com/Chandan220698?tab=followers"><img src="https://img.shields.io/github/followers/Chandan220698?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/Chandan220698/Python_Pro_Bootcamp-100Days_of_Code?tab=followers"><img src="https://img.shields.io/github/followers/Chandan220698?label=Followers&style=social" alt="GitHub Badge"></a>
 
