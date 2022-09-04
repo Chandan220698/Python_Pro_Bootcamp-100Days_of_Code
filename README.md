@@ -17,7 +17,7 @@ And there are so many more projects waiting to be discovered by you!
 100 projects in total.
 
 ## Day 1: Beginner - Working with Variables in Python to Manage Data
-Learnings: <b>printing, commenting, debugging, string manipulation and variables<b>.<br>
+<b>Learnings: printing, commenting, debugging, string manipulation and variables<b>.<br>
 project 1: band name generator
 
 ## Day 2: Beginner - Understanding Data Types and How to Manipulate Strings
@@ -28,4 +28,7 @@ project 2: Tip Calculator
 Learnings: <b>Conditional Statements, Logical Operators, Code Blocks and Scope<b>.<br>
 project 3: Treasure Island
 
+## Day 4: Beginner - Randomisation and Python Lists
+Learnings: <b>Randomisation and Python Lists<b>.<br>
+project 4: Rock Paper Scissors
 
