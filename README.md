@@ -32,3 +32,7 @@ project 3: Treasure Island
 Learnings: <b>Randomisation and Python Lists<b>.<br>
 project 4: Rock Paper Scissors
 
+## Day 5: Beginner - Python Loops
+Learnings: <b>Loops and Range()<b>.<br>
+project 5: Password Generator
+
