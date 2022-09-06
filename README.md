@@ -36,3 +36,6 @@ project 4: Rock Paper Scissors
 Learnings: <b>Loops and Range()<b>.<br>
 project 5: Password Generator
 
+## Day 6: Beginner - Python Functions and Karel
+Learnings: <b>Function, Code Blocks and While Loop()<b>.<br>
+project 6: Escaping the Maze
