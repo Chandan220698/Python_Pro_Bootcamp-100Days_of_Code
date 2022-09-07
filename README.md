@@ -39,3 +39,7 @@ project 5: Password Generator
 ## Day 6: Beginner - Python Functions and Karel
 Learnings: <b>Function, Code Blocks and While Loop()<b>.<br>
 project 6: Escaping the Maze
+
+## Day 7: Beginner - Hangman
+Learnings: <b>Hangman()<b>.<br>
+project 7: Hangman
