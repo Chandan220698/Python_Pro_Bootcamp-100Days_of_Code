@@ -43,3 +43,7 @@ project 6: Escaping the Maze
 ## Day 7: Beginner - Hangman
 Learnings: <b>Hangman()<b>.<br>
 project 7: Hangman
+
+## Day 8: Beginner - Function Parameter and Caesar Cipher
+Learnings: <b>Functions with inputs, Arguments and Parameters<b>.<br>
+project 8: Caesar Cipher
