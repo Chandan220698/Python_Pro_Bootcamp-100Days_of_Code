@@ -47,3 +47,7 @@ project 7: Hangman
 ## Day 8: Beginner - Function Parameter and Caesar Cipher
 Learnings: <b>Functions with inputs, Arguments and Parameters<b>.<br>
 project 8: Caesar Cipher
+
+## Day 9: Beginner - Dictionaries, Nesting and the Secret Auction
+Learnings: <b>Dictionaries and Nesting<b>.<br>
+project 9: Secret Auction
