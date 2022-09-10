@@ -51,3 +51,7 @@ project 8: Caesar Cipher
 ## Day 9: Beginner - Dictionaries, Nesting and the Secret Auction
 Learnings: <b>Dictionaries and Nesting<b>.<br>
 project 9: Secret Auction
+
+## Day 10: Beginner - Functions with Outputs
+Learnings: <b>Functions with Outputs and Docstrings<b>.<br>
+project 10: Calculator
