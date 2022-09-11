@@ -55,3 +55,7 @@ project 9: Secret Auction
 ## Day 10: Beginner - Functions with Outputs
 Learnings: <b>Functions with Outputs and Docstrings<b>.<br>
 project 10: Calculator
+
+## Day 11: Beginner - The Blackjack Capstone Project
+Learnings: <b>The Blackjack Capstone Project<b>.<br>
+project 11: The Blackjack Capstone Project
