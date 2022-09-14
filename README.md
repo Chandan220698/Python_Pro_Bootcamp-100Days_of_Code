@@ -59,3 +59,7 @@ project 10: Calculator
 ## Day 11: Beginner - The Blackjack Capstone Project
 Learnings: <b>The Blackjack Capstone Project<b>.<br>
 project 11: The Blackjack Capstone Project
+
+## Day 12: Beginner - Scope and Number Guessing Game
+Learnings: <b>Namespaces-Local vs Global<b>.<br>
+project 12: Number Guessing Game
