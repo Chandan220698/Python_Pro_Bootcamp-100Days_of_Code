@@ -63,3 +63,6 @@ project 11: The Blackjack Capstone Project
 ## Day 12: Beginner - Scope and Number Guessing Game
 Learnings: <b>Namespaces-Local vs Global<b>.<br>
 project 12: Number Guessing Game
+
+## Day 13: Begineer - Debugging
+Learnings: <b>Debugging-How to find and Fix the error.<b>
