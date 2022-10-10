@@ -66,3 +66,7 @@ project 12: Number Guessing Game
 
 ## Day 13: Begineer - Debugging
 Learnings: <b>Debugging-How to find and Fix the error.<b>
+
+## Day 14: Begineer - Higher Lower Game Project
+Project 14: <b>Higher Lower Game Project.<b>
+
